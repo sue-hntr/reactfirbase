@@ -19,7 +19,11 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
+    "dotenv": "^7.0.0",
     "express": "^4.16.3",
-    "if-env": "^1.0.4"
+    "firebase": "^5.9.4",
+    "if-env": "^1.0.4",
+    "react-router-dom": "^5.0.0",
+    "recompose": "^0.30.0"
   }
 }
